@@ -195,8 +195,10 @@ By successfully architecting, configuring, and executing this multi-tiered infra
 ### 🛡️ Phase 10 – Delegation of Control
 **Objective:** Delegate administrative permissions securely to enforce a Least Privilege security framework.
 *   **Evidence:**
-    *   *Delegation Wizard:* ![Delegation Wizard](./Images/29-Delegation-Wizard.png)
-    *   *Delegated Permissions:* ![Delegated Permissions](./Images/30-Delegated-Permissions.png)
+    *   *Delegation Wizard:*
+    *    ![Delegation Wizard](images/Delegation/28-Delegation-Wizard.png)
+    *   *Delegated Permissions:*
+    *    ![Delegated Permissions](images/Delegation/29-Delegated-Permissions.PNG)
 
 ---
 
@@ -209,13 +211,13 @@ By successfully architecting, configuring, and executing this multi-tiered infra
     *   Created formatted Production NTFS Volume
 *   **Evidence:**
     *   *File Services Installation:*
-    *    ![File Services](./Images/31-File-Services-Installation.png)
+    *    ![File Services](images/FileServer/30-File-Services-Installation.PNG)
     *   *Storage Pool Configuration:*
-    *   ![Storage Pool](./Images/32-Storage-Pool.png)
+    *   ![Storage Pool](images/FileServer/31-Storage-Pool.PNG)
     *   *Virtual Disk Setup:*
-    *    ![Virtual Disk](./Images/33-Virtual-Disk.png)
+    *    ![Virtual Disk](images/FileServer/32-Virtual-Disk.PNG)
     *   *Volume Creation:*
-    *   ![Volume](./Images/34-Volume-Creation.png)
+    *   ![Volume](images/FileServer/33-Volume-Creation.PNG)
 
 ---
 
