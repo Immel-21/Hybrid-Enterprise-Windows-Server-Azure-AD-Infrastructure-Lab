@@ -8,7 +8,6 @@ This lab simulates real-world enterprise network environments and validates the 
 ---
 
 ## 📐 Lab Topology & Node Specifications
-
 ![Network Diagram](Documentation/NetworkDiagram.png)
 
 ### 🌐 Network Isolation Strategy
@@ -56,15 +55,10 @@ By successfully architecting, configuring, and executing this multi-tiered infra
     *   Connected each virtual machine to both virtual switches
 *   **Evidence:**
     *   *Hyper-V Manager:*
-    *   
-    *   ![Hyper-V Manager](images/HyperV/01-4vms-HyperV-Manager.PNG)
-    *   
+    *   ![Hyper-V Manager](images/HyperV/01-4vms-HyperV-Manager.PNG) 
     *   *Hyper-V Virtual Switch:*
-    *   
     *    ![Virtual Switch](images/HyperV/02-default-and-private-Switch.PNG)
-    *    
     *   *VM Network Adapters:*
-    *   
     *    ![VM Adapters](images/HyperV/03-VM-Network-Adapters.PNG)
 
 ---
