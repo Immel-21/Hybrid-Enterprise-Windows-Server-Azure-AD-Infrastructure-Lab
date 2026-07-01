@@ -246,17 +246,17 @@ By successfully architecting, configuring, and executing this multi-tiered infra
 ### 🗺️ Phase 14 – Drive Mapping
 Automated data storage discovery settings to map department network spaces cleanly on login.
 *   **Group Policy Preferences (GPP) Logical Drive-Map Policy Properties:**
-    ![Drive Mapping GPO](/Images/39-Drive-Mapping-GPO.png)
+    ![Drive Mapping GPO](images/DriverMapping/39-Drive-Mapping-GPO.PNG)
 *   **Endpoint File Explorer Mapped Storage Target Drive Profiles:**
-    ![Mapped Drives](/Images/40-Mapped-Drives.png)
+    ![Mapped Drives](images/DriverMapping/40-Mapped-Drives.PNG)
 
 ---
 
 ### 📦 Phase 15 – Software Deployment
 Automated common software setups to keep remote network systems uniform.
 *   **Centralized Deployment Package (.MSI) Shared Distribution Repository:**
-    ![Software Share](/Images/41-Software-Share.png)
+    ![Software Share](images/SoftwareDeployment/41-Software-Share.png)
 *   **Active Directory Group Policy Software Distribution Scope Paths:**
-    ![Software Deployment](/Images/42-Software-Deployment-GPO.png)
+    ![Software Deployment](images/SoftwareDeployment/42-Software-Deployment-GPO.png)
 *   **Target Client Device Applications Installation Verification History:**
-    ![Installed Software](/Images/43-Installed-Software.png)
+    ![Installed Software](images/SoftwareDeployment/43-Installed-Software.png)
