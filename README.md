@@ -283,5 +283,5 @@ Objective: Implement hybrid identity by linking on-premises directory structures
 ---
 
 ## 👤 Author
-- **![Immel Euge Mpioulia]**  *- Lead Network Infrastructure Architect -*  [@Immel-21](https://github.com)
+- **Immel Euge Mpioulia**  *- Lead Network Infrastructure Architect -*  [@Immel-21](https://github.com)
   - Diploma in Information Technology: Network Management
