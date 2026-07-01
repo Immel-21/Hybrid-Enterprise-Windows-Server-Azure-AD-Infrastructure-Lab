@@ -8,6 +8,7 @@ This lab simulates real-world enterprise network environments and validates the 
 ---
 
 ## 📐 Lab Topology & Node Specifications
+*   *Lab Network Design*
 ![Network Diagram](Documentation/NetworkDiagram.png)
 
 ### 🌐 Network Isolation Strategy
@@ -210,13 +211,13 @@ By successfully architecting, configuring, and executing this multi-tiered infra
     *   Created Virtual Disk (Mirror/Parity layout)
     *   Created formatted Production NTFS Volume
 *   **Evidence:**
-    *   **File Services Installation:**
+    *   *File Services Installation:*
     *    ![File Services](images/FileServer/30-File-Services-Installation.PNG)
-    *   **Storage Pool Configuration:**
+    *   *Storage Pool Configuration:*
     *   ![Storage Pool](images/FileServer/31-Storage-Pool.PNG)
-    *   **Virtual Disk Setup:**
+    *   *Virtual Disk Setup:*
     *    ![Virtual Disk](images/FileServer/32-Virtual-Disk.PNG)
-    *   **Volume Creation:**
+    *   *Volume Creation:*
     *   ![Volume](images/FileServer/33-Volume-Creation.PNG)
 
 ---
@@ -224,11 +225,11 @@ By successfully architecting, configuring, and executing this multi-tiered infra
 ### 📂 Phase 12 – Shared Folders and NTFS Permissions
 **Objective:** Provide secure departmental file access using the AGDLP methodology.
 *   **Evidence:**
-    *   **Shared Folders:**
+    *   *Shared Folders:*
     *   ![Shares](images/NTFS/34-Shared-Folders.PNG)
-    *   **Share Permissions:**
+    *   *Share Permissions:*
     *    ![Share Permissions](images/NTFS/35-Share-Permissions.PNG)
-    *   **NTFS Permissions:**
+    *   *NTFS Permissions:*
     *    ![NTFS Permissions](images/NTFS/36-NTFS-Permissions.PNG)
 
 ---
@@ -236,29 +237,29 @@ By successfully architecting, configuring, and executing this multi-tiered infra
 ### 📊 Phase 13 – Storage Quotas
 **Objective:** Control storage utilization via File Server Resource Manager (FSRM).
 *   **Evidence:**
-    *    **Hard Storage Consumption Allocation Control Limit Boundary Layouts:**
+    *    *Hard Storage Consumption Allocation Control Limit Boundary Layouts:*
            ![FSRM](images/Quota/37-Quota-Template.PNG)
-    *    **Active Enforced Storage Volumes Quota Enforcement Scopes Dashboard:**
+    *    *Active Enforced Storage Volumes Quota Enforcement Scopes Dashboard:*
            ![Quota Template](images/Quota/38-Quota-Applied.PNG)
  
 ---
 
 ### 🗺️ Phase 14 – Drive Mapping
 Automated data storage discovery settings to map department network spaces cleanly on login.
-   *   **Group Policy Preferences (GPP) Logical Drive-Map Policy Properties:**
+   *   *Group Policy Preferences (GPP) Logical Drive-Map Policy Properties:*
           ![Drive Mapping GPO](images/DriverMapping/39-Drive-Mapping-GPO.PNG)
-   *   **Endpoint File Explorer Mapped Storage Target Drive Profiles:**
+   *   *Endpoint File Explorer Mapped Storage Target Drive Profiles:*
           ![Mapped Drives](images/DriverMapping/40-Mapped-Drives.PNG)
 
 ---
 
 ### 📦 Phase 15 – Software Deployment
 Automated common software setups to keep remote network systems uniform.
-   *   **Centralized Deployment Package (.MSI) Shared Distribution Repository:**
+   *   *Centralized Deployment Package (.MSI) Shared Distribution Repository:*
     ![Software Share](images/SoftwareDeployment/41-Software-Share.png)
-   *   **Active Directory Group Policy Software Distribution Scope Paths:**
+   *   *Active Directory Group Policy Software Distribution Scope Paths:*
     ![Software Deployment](images/SoftwareDeployment/42-Software-Deployment-GPO.png)
-   *   **Target Client Device Applications Installation Verification History:**
+   *   *Target Client Device Applications Installation Verification History:*
     ![Installed Software](images/SoftwareDeployment/43-Installed-Software.png)
 
 ---
@@ -271,13 +272,13 @@ Objective: Implement hybrid identity by linking on-premises directory structures
    *   Configured OU Filtering and Delta Synchronization
    *   Verified Successful Sync Operations
 *  **Evidence:**
-   * **Azure AD Connect Installation:**
+   * *Azure AD Connect Installation:*
       ![Azure AD Connect](images/AzureADConnect/44-AzureADConnect-Installation.PNG)
-   * **Azure Tenant Connection Handshake:**
+   * *Azure Tenant Connection Handshake:*
       ![Azure AD Connect](images/AzureADConnect/45-Azure-Tenant-Connection.PNG)
-   * **Synchronization Profile Configuration:**
+   * *Synchronization Profile Configuration:*
       ![Azure AD Connect](images/AzureADConnect/46-Synchronization-Configuration.PNG)
-   * **Successful Sync Lifecycle Dashboard:**
+   * *Successful Sync Lifecycle Dashboard:*
       ![Azure AD Connect](images/AzureADConnect/47-Synchronization-Success.PNG)
   
 ---
