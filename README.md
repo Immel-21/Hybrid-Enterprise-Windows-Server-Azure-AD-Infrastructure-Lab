@@ -8,7 +8,7 @@ This lab simulates real-world enterprise network environments and validates the 
 ---
 
 ## 📐 Lab Topology & Node Specifications
-![Network Diagram](./Images/01-HyperV-Manager.png)
+![Network Diagram](D5zoWY2jcjko7Xt4PBCNZqL9EQtPFbmSdd)
 
 ### 🌐 Network Isolation Strategy
 - **Switch A (External Switch):** Maps interfaces directly to the host network gateway for outbound WAN access (Windows Updates, cloud software downloads, Azure AD endpoint communication).
