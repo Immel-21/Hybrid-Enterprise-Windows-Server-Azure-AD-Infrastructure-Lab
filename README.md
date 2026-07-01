@@ -55,13 +55,11 @@ By successfully architecting, configuring, and executing this multi-tiered infra
     *   Connected each virtual machine to both virtual switches
 *   **Evidence:**
     *   *Hyper-V Manager:*
-    *   ![Hyper-V Manager](./Images/01-HyperV-Manager.png)
-    *   *External Virtual Switch:*
-    *    ![External Switch](./Images/02-External-vSwitch.png)
-    *   *Lab-Private Virtual Switch:*
-    *    ![Private Switch](./Images/03-Lab-Private-vSwitch.png)
+    *   ![Hyper-V Manager](images/HyperV/01-4vms-HyperV-Manager.PNG)
+    *   *Hyper-V Virtual Switch:*
+    *    ![Virtual Switch](images/HyperV/02-default-and-private-Switch.PNG)
     *   *VM Network Adapters:*
-    *    ![VM Adapters](./Images/04-VM-Network-Adapters.png)
+    *    ![VM Adapters](images/HyperV/03-VM-Network-Adapters.PNG)
 
 ---
 
