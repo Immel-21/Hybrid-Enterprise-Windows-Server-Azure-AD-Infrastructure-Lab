@@ -283,6 +283,12 @@ Objective: Implement hybrid identity by linking on-premises directory structures
   
 ---
 
+## 🧠 Architectural Insights & Challenge Analysis
+For a deep dive into the engineering decisions, trade-offs, and technical troubleshooting commands used throughout this deployment, see the full **[CHALLENGES.md](./CHALLENGES.md)** documentation guide.
+
+---
+
+
 ## 👤 Author
 - **Immel Euge Mpioulia**  *- Lead Network Infrastructure Architect -*  [@Immel-21](https://github.com)
   - Diploma in Information Technology: Network Management
