@@ -272,10 +272,10 @@ Objective: Implement hybrid identity by linking on-premises directory structures
 * Verified Successful Sync Operations
 * **Evidence:**
 * **Azure AD Connect Installation:**
-   ![Azure AD Connect](./Images/46-AzureADConnect-Installation.png)
+   ![Azure AD Connect](images/AzureADConnect/44-AzureADConnect-Installation.PNG)
 * **Azure Tenant Connection Handshake:**
-   ![Azure AD Connect](./Images/46-AzureADConnect-Installation.png)
+   ![Azure AD Connect](images/AzureADConnect/45-Azure-Tenant-Connection.PNG)
 * **Synchronization Profile Configuration:**
-   ![Azure AD Connect](./Images/46-AzureADConnect-Installation.png)
+   ![Azure AD Connect](images/AzureADConnect/46-Synchronization-Configuration.PNG)
 * **Successful Sync Lifecycle Dashboard:**
-   ![Azure AD Connect](./Images/46-AzureADConnect-Installation.png) 
+   ![Azure AD Connect](images/AzureADConnect/47-Synchronization-Success.PNG) 
