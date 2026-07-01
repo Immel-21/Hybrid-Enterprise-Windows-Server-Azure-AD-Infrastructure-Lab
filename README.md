@@ -8,7 +8,7 @@ This lab simulates real-world enterprise network environments and validates the 
 ---
 
 ## 📐 Lab Topology & Node Specifications
-![Network Diagram](D5zoWY2jcjko7Xt4PBCNZqL9EQtPFbmSdd)
+![Network Diagram](Documentation/NetworkDiagram.png)
 
 ### 🌐 Network Isolation Strategy
 - **Switch A (External Switch):** Maps interfaces directly to the host network gateway for outbound WAN access (Windows Updates, cloud software downloads, Azure AD endpoint communication).
@@ -54,10 +54,14 @@ By successfully architecting, configuring, and executing this multi-tiered infra
     *   Created four virtual machines
     *   Connected each virtual machine to both virtual switches
 *   **Evidence:**
-    *   *Hyper-V Manager:* ![Hyper-V Manager](./Images/01-HyperV-Manager.png)
-    *   *External Virtual Switch:* ![External Switch](./Images/02-External-vSwitch.png)
-    *   *Lab-Private Virtual Switch:* ![Private Switch](./Images/03-Lab-Private-vSwitch.png)
-    *   *VM Network Adapters:* ![VM Adapters](./Images/04-VM-Network-Adapters.png)
+    *   *Hyper-V Manager:*
+    *   ![Hyper-V Manager](./Images/01-HyperV-Manager.png)
+    *   *External Virtual Switch:*
+    *    ![External Switch](./Images/02-External-vSwitch.png)
+    *   *Lab-Private Virtual Switch:*
+    *    ![Private Switch](./Images/03-Lab-Private-vSwitch.png)
+    *   *VM Network Adapters:*
+    *    ![VM Adapters](./Images/04-VM-Network-Adapters.png)
 
 ---
 
