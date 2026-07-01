@@ -101,9 +101,12 @@ By successfully architecting, configuring, and executing this multi-tiered infra
     *   Created DNS records
     *   Tested DNS functionality
 *   **Evidence:**
-    *   *Forward Lookup Zone:* ![DNS Zone](./Images/10-DNS-Forward-Lookup-Zone.png)
-    *   *DNS Host Records:* ![DNS Records](./Images/11-DNS-Host-Records.png)
-    *   *NSLookup Test:* ![NSLookup](./Images/12-NSLookup-Test.png)
+    *   *Forward Lookup Zone:*
+    *   ![DNS Zone](images/DNS/09-DNS-Forward-Lookup-Zone.PNG)
+    *   *DNS Host Records:*
+    *   ![DNS Records](images/DNS/10-DNS-Forward-Lookup-Zone.PNG)
+    *   *NSLookup Test:*
+    *   ![NSLookup](images/DNS/10-DNS-Forward-Lookup-Zone.PNG)
 
 ---
 
