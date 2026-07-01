@@ -236,8 +236,27 @@ By successfully architecting, configuring, and executing this multi-tiered infra
 ### 📊 Phase 13 – Storage Quotas
 **Objective:** Control storage utilization via File Server Resource Manager (FSRM).
 *   **Evidence:**
-    *   *FSRM Installation:*
+    *    *  **Hard Storage Consumption Allocation Control Limit Boundary Layouts:**
     *    ![FSRM](images/Quota/37-Quota-Template.PNG)
-    *   *Quota Template:*
+    *    **Active Enforced Storage Volumes Quota Enforcement Scopes Dashboard:**
     *    ![Quota Template](images/Quota/38-Quota-Applied.PNG)
+ 
+---
 
+### 🗺️ Phase 14 – Drive Mapping
+Automated data storage discovery settings to map department network spaces cleanly on login.
+*   **Group Policy Preferences (GPP) Logical Drive-Map Policy Properties:**
+    ![Drive Mapping GPO](/Images/39-Drive-Mapping-GPO.png)
+*   **Endpoint File Explorer Mapped Storage Target Drive Profiles:**
+    ![Mapped Drives](/Images/40-Mapped-Drives.png)
+
+---
+
+### 📦 Phase 15 – Software Deployment
+Automated common software setups to keep remote network systems uniform.
+*   **Centralized Deployment Package (.MSI) Shared Distribution Repository:**
+    ![Software Share](/Images/41-Software-Share.png)
+*   **Active Directory Group Policy Software Distribution Scope Paths:**
+    ![Software Deployment](/Images/42-Software-Deployment-GPO.png)
+*   **Target Client Device Applications Installation Verification History:**
+    ![Installed Software](/Images/43-Installed-Software.png)
