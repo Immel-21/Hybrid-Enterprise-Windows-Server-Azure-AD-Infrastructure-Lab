@@ -134,10 +134,14 @@ By successfully architecting, configuring, and executing this multi-tiered infra
     *   Promoted DC02
     *   Verified Active Directory replication
 *   **Evidence:**
-    *   *DC02 Domain Join:* ![DC02 Join](./Images/16-DC02-Domain-Join.png)
-    *   *DC02 Promotion:* ![DC02 Promotion](./Images/17-DC02-Promotion.png)
-    *   *Replication Summary:* ![Replication](./Images/18-Replication-Summary.png)
-    *   *DCDIAG Health Check:* ![DCDIAG](./Images/19-DCDIAG-Test.png)
+    *   *DC02 Domain Join:*
+    *    ![DC02 Join](images/Replication/15-DC02-Domain-Join.PNG)
+    *   *DC02 Promotion:*
+    *   ![DC02 Promotion](images/Replication/16-DC02-Promotion.PNG)
+    *   *Replication Summary:*
+    *   ![Replication](images/Replication/17-Replication-Summary.PNG)
+    *   *DCDIAG Health Check:*
+    *   ![DCDIAG](images/Replication/18-DCDIAG-Test.PNG)
 
 ---
 
@@ -147,8 +151,10 @@ By successfully architecting, configuring, and executing this multi-tiered infra
     *   Joined Client01 to `lab.local`
     *   Logged in using domain credentials
 *   **Evidence:**
-    *   *Client Domain Join:* ![Client Join](./Images/20-Client01-Domain-Join.png)
-    *   *Domain User Login:* ![Domain Login](./Images/21-Client01-Domain-Login.png)
+    *   *Client Domain Join:*
+    *   ![Client Join](images/ClientJoin/19-Client01-Domain-Join.PNG)
+    *   *Domain User Login:*
+    *    ![Domain Login](images/ClientJoin/20-Client01-Domain-Login.PNG)
 
 ---
 
