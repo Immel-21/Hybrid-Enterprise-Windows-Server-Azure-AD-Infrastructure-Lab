@@ -237,7 +237,7 @@ By successfully architecting, configuring, and executing this multi-tiered infra
 **Objective:** Control storage utilization via File Server Resource Manager (FSRM).
 *   **Evidence:**
     *   *FSRM Installation:*
-    *    ![FSRM](images/Quota/38-Quota-Template.PNG)
+    *    ![FSRM](images/Quota/37-Quota-Template.PNG)
     *   *Quota Template:*
-    *    ![Quota Template](images/Quota/39-Quota-Applied.PNG)
+    *    ![Quota Template](images/Quota/38-Quota-Applied.PNG)
 
