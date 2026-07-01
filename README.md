@@ -102,11 +102,11 @@ By successfully architecting, configuring, and executing this multi-tiered infra
     *   Tested DNS functionality
 *   **Evidence:**
     *   *Forward Lookup Zone:*
-    *   ![DNS Zone](images/DNS/09-DNS-Forward-Lookup-Zone.PNG)
+       ![DNS Zone](images/DNS/09-DNS-Forward-Lookup-Zone.PNG)
     *   *DNS Host Records:*
-    *   ![DNS Records](images/DNS/10-DNS-Forward-Lookup-Zone.PNG)
+       ![DNS Records](images/DNS/10-DNS-Forward-Lookup-Zone.PNG)
     *   *NSLookup Test:*
-    *   ![NSLookup](images/DNS/10-DNS-Forward-Lookup-Zone.PNG)
+        ![NSLookup](images/DNS/10-DNS-Forward-Lookup-Zone.PNG)
 
 ---
 
@@ -118,9 +118,12 @@ By successfully architecting, configuring, and executing this multi-tiered infra
     *   Configured DNS and gateway options
     *   Authorized DHCP server
 *   **Evidence:**
-    *   *DHCP Installation:* ![DHCP Installation](./Images/13-DHCP-Role-Installation.png)
-    *   *DHCP Scope:* ![DHCP Scope](./Images/14-DHCP-Scope.png)
-    *   *DHCP Lease:* ![DHCP Lease](./Images/15-DHCP-Lease.png)
+    *   *DHCP Installation:*
+       ![DHCP Installation](images/DHCP/12-DHCP-Role-Installation.PNG)
+    *   *DHCP Scope:*
+       ![DHCP Scope](images/DHCP/13-DHCP-Scope.PNG)
+    *   *DHCP Lease:*
+       ![DHCP Lease](images/DHCP/14-DHCP-Lease.PNG)
 
 ---
 
