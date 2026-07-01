@@ -71,8 +71,10 @@ By successfully architecting, configuring, and executing this multi-tiered infra
     *   Renamed all virtual machines
     *   Configured static IP addresses
 *   **Evidence:**
-    *   *Computer Renaming:* ![Server Names](./Images/05-Server-Renames.png)
-    *   *Network Configuration:* ![IP Configuration](./Images/06-IP-Configuration.png)
+    *   *Computer Renaming:*
+    *   ![Server Names](images/ServerSetup/04-Server-Renames.PNG)
+    *   *Network Configuration:*
+    *    ![IP Configuration](images/ServerSetup/05-IP-Configuration.PNG)
 
 ---
 
@@ -83,9 +85,12 @@ By successfully architecting, configuring, and executing this multi-tiered infra
     *   Created new forest
     *   Created `lab.local` domain
 *   **Evidence:**
-    *   *AD DS Role Installation:* ![ADDS Installation](./Images/07-ADDS-Role-Installation.png)
-    *   *Domain Creation:* ![Domain Creation](./Images/08-Domain-Creation.png)
-    *   *Successful Domain Controller Promotion:* ![Domain Controller Success](./Images/09-Domain-Controller-Success.png)
+    *   *AD DS Role Installation:*
+    *   ![ADDS Installation](./Images/07-ADDS-Role-Installation.png)
+    *   *Domain Creation:*
+    *    ![Domain Creation](./Images/08-Domain-Creation.png)
+    *   *Successful Domain Controller Promotion:*
+    *   ![Domain Controller Success](./Images/09-Domain-Controller-Success.png)
 
 ---
 
