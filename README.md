@@ -224,14 +224,20 @@ By successfully architecting, configuring, and executing this multi-tiered infra
 ### 📂 Phase 12 – Shared Folders and NTFS Permissions
 **Objective:** Provide secure departmental file access using the AGDLP methodology.
 *   **Evidence:**
-    *   *Shared Folders:* ![Shares](./Images/35-Shared-Folders.png)
-    *   *Share Permissions:* ![Share Permissions](./Images/36-Share-Permissions.png)
-    *   *NTFS Permissions:* ![NTFS Permissions](./Images/37-NTFS-Permissions.png)
+    *   *Shared Folders:*
+    *   ![Shares](images/NTFS/34-Shared-Folders.PNG)
+    *   *Share Permissions:*
+    *    ![Share Permissions](images/NTFS/35-Share-Permissions.PNG)
+    *   *NTFS Permissions:*
+    *    ![NTFS Permissions](images/NTFS/36-NTFS-Permissions.PNG)
 
 ---
 
 ### 📊 Phase 13 – Storage Quotas
 **Objective:** Control storage utilization via File Server Resource Manager (FSRM).
 *   **Evidence:**
-    *   *FSRM Installation:* ![FSRM](./Images/38-FSRM-Installation.png)
-    *   *Quota Template:* ![Quota Template](./Images/39-Quota-Template.png)
+    *   *FSRM Installation:*
+    *    ![FSRM](images/Quota/38-Quota-Template.PNG)
+    *   *Quota Template:*
+    *    ![Quota Template](images/Quota/39-Quota-Applied.PNG)
+
