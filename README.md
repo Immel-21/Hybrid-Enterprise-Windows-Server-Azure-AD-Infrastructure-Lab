@@ -86,11 +86,11 @@ By successfully architecting, configuring, and executing this multi-tiered infra
     *   Created `lab.local` domain
 *   **Evidence:**
     *   *AD DS Role Installation:*
-    *   ![ADDS Installation](./Images/07-ADDS-Role-Installation.png)
+    *   ![ADDS Installation](images/ADDS/06-ADDS-Role-Installation.PNG)
     *   *Domain Creation:*
-    *    ![Domain Creation](./Images/08-Domain-Creation.png)
+    *    ![Domain Creation](images/ADDS/07-Domain-creation.PNG)
     *   *Successful Domain Controller Promotion:*
-    *   ![Domain Controller Success](./Images/09-Domain-Controller-Success.png)
+    *   ![Domain Controller Success](images/ADDS/08-Domain-Controller-Success.PNG)
 
 ---
 
