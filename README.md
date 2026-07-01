@@ -165,9 +165,12 @@ By successfully architecting, configuring, and executing this multi-tiered infra
     *   Created user accounts
     *   Created security groups
 *   **Evidence:**
-    *   *OU Structure:* ![OU Structure](./Images/22-OU-Structure.png)
-    *   *User Accounts:* ![Users](./Images/23-User-Accounts.png)
-    *   *Security Groups:* ![Groups](./Images/24-Security-Groups.png)
+    *   *OU Structure:*
+    *   ![OU Structure](images/AD-Administration/21-OU-Structure.PNG)
+    *   *User Accounts:*
+    *   ![Users](images/AD-Administration/22-User-Accounts..PNG)
+    *   *Security Groups:*
+    *    ![Groups](images/AD-Administration/23-Security-Groups.PNG)
 
 ---
 
@@ -178,10 +181,14 @@ By successfully architecting, configuring, and executing this multi-tiered infra
     *   Wallpaper Policy
     *   USB Restriction Policy
 *   **Evidence:**
-    *   *Password Policy:* ![Password Policy](./Images/25-Password-Policy.png)
-    *   *Wallpaper Policy:* ![Wallpaper GPO](./Images/26-Wallpaper-GPO.png)
-    *   *USB Restriction:* ![USB Restriction](./Images/27-USB-Restriction-GPO.png)
-    *   *Policy Verification:* ![GPResult](./Images/28-GPResult.png)
+    *   *Password Policy:*
+    *    ![Password Policy](images/GPO/24-Password-Policy.PNG)
+    *   *Wallpaper Policy:*
+    *    ![Wallpaper GPO](images/GPO/25-Wallpaper-GPO..PNG)
+    *   *USB Restriction:*
+    *    ![USB Restriction](images/GPO/26-USB-Restriction-GPO.PNG)
+    *   *Policy Verification:*
+    *    ![GPResult](images/GPO/27-GPResult.PNG)
 
 ---
 
