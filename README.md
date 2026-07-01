@@ -265,12 +265,12 @@ Automated common software setups to keep remote network systems uniform.
 
 ### ☁️ Phase 16 – Azure AD Connect Synchronization
 Objective: Implement hybrid identity by linking on-premises directory structures to Microsoft Azure (Entra ID).
-* **Tasks Completed:**
-*     Installed Azure AD Connect Engine
-*     Connected Cloud Azure Identity Tenant
-*     Configured OU Filtering and Delta Synchronization
-*     Verified Successful Sync Operations
-* **Evidence:**
+*  **Tasks Completed:**
+*    Installed Azure AD Connect Engine
+*    Connected Cloud Azure Identity Tenant
+*    Configured OU Filtering and Delta Synchronization
+*    Verified Successful Sync Operations
+*  **Evidence:**
 * **Azure AD Connect Installation:**
    ![Azure AD Connect](images/AzureADConnect/44-AzureADConnect-Installation.PNG)
 * **Azure Tenant Connection Handshake:**
