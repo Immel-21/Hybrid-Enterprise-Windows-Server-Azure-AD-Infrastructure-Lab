@@ -288,7 +288,16 @@ For a deep dive into the engineering decisions, trade-offs, and technical troubl
 
 ---
 
+ 
+## 👤 Project Leadership & Contributors
 
-## 👤 Author
-- **Immel Euge Mpioulia**  *- Lead Network Infrastructure Architect -*  [@Immel-21](https://github.com)
-  - Diploma in Information Technology: Network Management
+### 👑 Project Lead & Architect
+- **Immel Euge Mpioulia** - [@Immel-21](https://github.com)
+  * **Role:** Lead Infrastructure & Systems Architect
+  * **Core Focus:** Engineered the end-to-end deployment strategy for the resilient, multi-server enterprise environment. Responsible for high-level infrastructure design, virtualised storage pools configuration, perimeter security routing, advanced access control architecture, and the implementation of the hybrid identity link syncing local directory objects to Microsoft Azure (Entra ID).
+
+### 🤝 Project Contributors
+- **[Partner's Name Here]** - [@partner-github-username](https://github.com)
+  * **Role:** Systems & Network Infrastructure Deployment Partner
+  * **Core Focus:** Collaborated on the core implementation phases required to simulate the real-world enterprise network environment. Contributed to the baseline Hyper-V virtual switch provisioning, virtual machine creation matrix, initial domain controller database setup, Organizational Unit (OU) user provisioning, and the validation of automated Group Policy access controls.
+
